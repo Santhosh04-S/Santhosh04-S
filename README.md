@@ -1,83 +1,177 @@
-<h1 align="center">👋 Hi, I'm Santhos S</h1>
-<h2 align="center">Full-Stack Web Developer</h2>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=900&lines=Full-Stack+Web+Developer;MERN+Stack+Developer;Building+Real+World+Projects;React+%7C+Node.js+%7C+MongoDB" />
-</p>
+<!-- Animated Typing Banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Santhos+S;Full+Stack+Developer;B.E+Computer+Science+Engineering;Building+Real-World+Web+Applications;Learning+%2B+Building+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
 
-<p align="center">
-<a href="mailto:santhoshselvam0177@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=googlechrome"></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"></a>
-</p>
+<br/>
 
----
+<img src="https://img.shields.io/badge/Full--Stack-Developer-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Actively%20Learning-success?style=for-the-badge&logo=googleclassroom&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20to-Opportunities-blueviolet?style=for-the-badge&logo=handshake&logoColor=white" />
 
-## 💬 About Me
+</div>
 
-> Building high-performance web applications and intelligent solutions.  
-> Turning ideas into real-world products. 🚀
+<br/>
 
-- 🎓 B.E CSE Student  
-- 💻 Full Stack Developer  
-- 🌱 Learning React, Node.js, Express.js & MongoDB  
-- 🤖 Interested in AI Agents, SaaS & Web Apps  
-- 🎯 Goal: Get placed in a top product company  
-- 📧 Email: **santhoshselvam0177@gmail.com**
+## 👋 About Me
 
----
+I'm **Santhos S**, a **Full Stack Developer** currently pursuing my **B.E. in Computer Science and Engineering**. I enjoy building web applications end-to-end — from designing clean user interfaces to building reliable backend systems and databases.
+
+I'm in the early, hands-on stage of my development journey — actively building projects, strengthening my fundamentals, and working toward becoming a strong Full Stack Engineer capable of building real-world, AI-powered products.
+
+- 🎓 B.E. Computer Science and Engineering
+- 💻 Full Stack Web Development (MERN Stack)
+- 🌱 Currently deepening my skills in React, Node.js, and system design basics
+- 🎯 Long-term goal: build production-grade AI-powered web applications
+- 📫 Reach me at **santhoshselvam0177@gmail.com**
+
+<br/>
+
+## 🎯 Current Focus
+
+```text
+🔭 Focusing on:      Full Stack Development (MERN)
+🌱 Strengthening:    JavaScript fundamentals, React, Backend APIs
+🧠 Exploring:        AI integration in web applications
+🤝 Open to:          Collaboration on beginner/intermediate full-stack projects
+```
+
+<br/>
+
+## 🚧 Currently Building
+
+### AI-Powered College ERP System — *Planning Phase*
+
+An AI-integrated College ERP system covering chatbot support, attendance, exams, and fee management. Currently in the early planning and design stage — no modules are complete yet.
+
+| Phase              | Status         |
+|---------------------|----------------|
+| Research            | ✅ Completed    |
+| UI Design           | 🟡 In Progress |
+| Frontend            | ⚪ Not Started |
+| Backend             | ⚪ Not Started |
+| Database            | ⚪ Not Started |
+| AI Integration      | ⚪ Not Started |
+| Testing             | ⚪ Not Started |
+| Deployment          | ⚪ Not Started |
+
+> This project is being built openly and honestly — updates will reflect real progress, not placeholder milestones.
+
+<br/>
+
+## 🗂️ Coming Soon
+
+These are planned projects, not yet started or completed:
+
+- 🛒 E-Commerce Website
+- 💬 Real-Time Chat Application
+- 🌐 Portfolio Website
+- 📊 Admin Dashboard
+- 💰 Expense Tracker
+
+<br/>
+
+## 📚 Learning Roadmap
+
+- [x] HTML
+- [x] CSS
+- [x] JavaScript
+- [ ] React *(currently learning)*
+- [ ] Node.js *(currently learning)*
+- [ ] Express.js
+- [ ] MongoDB
+- [x] Git
+- [x] GitHub
+
+<br/>
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,postman&perline=12" />
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,postman" />
+
+</div>
+
+<br/>
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Santhosh04-S&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh04-S&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Santhosh04-S&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh04-S&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=c9d1d9" />
 
-## 🔥 GitHub Streak
+</div>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Santhosh04-S&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Santhosh04-S&theme=radical&hide_border=true&background=0D1117&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" />
 
-## 🚀 Pinned Projects
+</div>
 
-| Project | Description | Tech |
-|---|---|---|
-| 🤖 AI College ERP System | AI-powered college management system | MERN + AI |
-| 🛒 E-Commerce Website | Full-stack shopping website | MERN |
-| 💬 Chat Application | Real-time chat app | Socket.io |
-| 👨‍💻 Portfolio Website | Personal developer portfolio | React |
-| ✅ Task Manager | CRUD task management app | MERN |
-
----
+<br/>
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Santhosh04-S&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-</p>
+<div align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=Santhosh04-S&theme=radical&no-frame=true&margin-w=10&row=1" />
+
+</div>
+
+<br/>
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Santhosh04-S&theme=react-dark&hide_border=true&bg_color=0D1117&color=8A2BE2&line=8A2BE2&point=ffffff" />
+
+</div>
+
+<br/>
+
+## 🎯 2026 Goals
+
+- 🚀 Complete and deploy the AI-Powered College ERP System
+- 💪 Build strong proficiency in React and Node.js/Express
+- 🗄️ Get comfortable with database design (MongoDB & SQL)
+- 🧠 Learn practical AI integration for web applications
+- 📦 Ship at least 3–4 genuine, complete full-stack projects
+- 🏢 Prepare for and apply to Full Stack Developer roles at product companies
+
+<br/>
+
+## 📫 Contact Me
+
+<div align="center">
+
+<a href="mailto:santhoshselvam0177@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Santhosh04-S">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
 
 ## 👀 Profile Views
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Santhosh04-S&label=Profile%20Views&color=00c2ff&style=for-the-badge"/>
-</p>
+<div align="center">
 
----
+<img src="https://komarev.com/ghpvc/?username=Santhosh04-S&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS" />
 
-<h3 align="center">⭐ Code • Learn • Build • Repeat ⭐</h3>
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💬 "The expert in anything was once a beginner."
+
+⭐️ Thanks for visiting my profile — I'm just getting started, and I'm building in public.
+
+</div>
