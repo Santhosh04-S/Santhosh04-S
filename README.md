@@ -34,17 +34,17 @@
 
 <br/>
 
-## 👋 About Me
+## <img src="https://img.shields.io/badge/-%20-8A2BE2?style=flat-square" height="22"/> About Me
 
-I'm **Santhos S**, a **Full Stack Developer** currently pursuing my **B.E. in Computer Science and Engineering**. I enjoy building web applications end-to-end — from designing clean user interfaces to building reliable backend systems and databases.
+> **Santhos S**, a **Full Stack Developer** currently pursuing my **B.E. in Computer Science and Engineering**. I enjoy building web applications end-to-end — from designing clean user interfaces to building reliable backend systems and databases.
+>
+> I'm in the early, hands-on stage of my development journey — actively building projects, strengthening my fundamentals, and working toward becoming a strong Full Stack Engineer capable of building real-world, AI-powered products.
 
-I'm in the early, hands-on stage of my development journey — actively building projects, strengthening my fundamentals, and working toward becoming a strong Full Stack Engineer capable of building real-world, AI-powered products.
-
-- 🎓 B.E. Computer Science and Engineering
-- 💻 Full Stack Web Development (MERN Stack)
-- 🌱 Currently deepening my skills in React, Node.js, and system design basics
-- 🎯 Long-term goal: build production-grade AI-powered web applications
-- 📫 Reach me at **santhoshselvam0177@gmail.com**
+- 🎓 &nbsp;B.E. Computer Science and Engineering
+- 💻 &nbsp;Full Stack Web Development (MERN Stack)
+- 🌱 &nbsp;Currently deepening my skills in React, Node.js, and system design basics
+- 🎯 &nbsp;Long-term goal: build production-grade AI-powered web applications
+- 📫 &nbsp;Reach me at **[santhoshselvam0177@gmail.com](mailto:santhoshselvam0177@gmail.com)**
 
 <br/>
 
@@ -159,29 +159,6 @@ These are planned projects, not yet started or completed:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Santhosh04-S&theme=react-dark&hide_border=true&bg_color=0D1117&color=8A2BE2&line=8A2BE2&point=ffffff" />
 
 </div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Santhosh04-S/Santhosh04-S/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
-<sub>⚙️ Auto-generated daily from real contribution activity — see setup note below</sub>
-
-</div>
-
-<br/>
-
-## 🎯 2026 Goals
-
-- 🚀 Complete and deploy the AI-Powered College ERP System
-- 💪 Build strong proficiency in React and Node.js/Express
-- 🗄️ Get comfortable with database design (MongoDB & SQL)
-- 🧠 Learn practical AI integration for web applications
-- 📦 Ship at least 3–4 genuine, complete full-stack projects
-- 🏢 Prepare for and apply to Full Stack Developer roles at product companies
 
 <br/>
 
