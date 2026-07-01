@@ -39,7 +39,7 @@
 <table width="100%">
 <tr><td>
 
-> **Santhosh S**, a **Full Stack Developer** currently pursuing my **B.E. in Computer Science and Engineering**. I enjoy building web applications end-to-end — from designing clean user interfaces to building reliable backend systems and databases.
+> **Santhosh S **, a **Full Stack Developer** currently pursuing my **B.E. in Computer Science and Engineering**. I enjoy building web applications end-to-end — from designing clean user interfaces to building reliable backend systems and databases.
 >
 > I'm in the early, hands-on stage of my development journey — actively building projects, strengthening my fundamentals, and working toward becoming a strong Full Stack Engineer capable of building real-world, AI-powered products.
 
@@ -229,6 +229,6 @@ These are planned projects, not yet started or completed:
 
 ⭐️ Thanks for visiting my profile — I'm just getting started, and I'm building in public.
 
-</div>
+</div>  
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:8A2BE2&height=120&section=footer" width="100%"/>
