@@ -1,61 +1,96 @@
 <h1 align="center">Hi 👋, I'm Santhos S</h1>
-<h3 align="center">Full Stack Developer | CSE Student | Future Tech Builder</h3>
+
+<h3 align="center">
+Full Stack Developer • CSE Student • Future Tech Builder 🚀
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Real+World+Projects;Always+Learning+New+Things" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.E CSE Student  
-- 💻 Learning Full Stack Development  
-- 🌱 Currently improving HTML, CSS, JavaScript, React, Node.js  
-- 🎯 Goal: Build real-world projects and get placed in top companies  
-- 📧 Email: santhoshselvam0177@gmail.com  
+- 🎓 B.E CSE Student
+- 💻 Full Stack Developer (MERN)
+- 🌱 Currently Learning React, Node.js & MongoDB
+- 🎯 Goal: Get placed in a top product company
+- 🚀 Building real-world projects
+- 📧 Email: **santhoshselvam0177@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-### Frontend
-HTML | CSS | JavaScript | React
+<p align="center">
 
-### Backend
-Node.js | Express.js
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,postman&perline=6" />
 
-### Database
-MongoDB | MySQL
-
-### Tools
-Git | GitHub | VS Code | Postman
+</p>
 
 ---
 
-## 📌 Current Projects
+## 📂 Featured Projects
 
-- College ERP System  
-- Student Management System  
-- Portfolio Website  
-- Full Stack Web Applications  
+⭐ AI College ERP System
 
----
+⭐ Student Management System
 
-## 🌐 Connect With Me
+⭐ Portfolio Website
 
-📧 Email: **santhoshselvam0177@gmail.com**
+⭐ Full Stack Web Applications
 
 ---
 
 ## 📊 GitHub Stats
 
-![Santhos GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Santhosh04-S&show_icons=true&theme=tokyonight"/>
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh04-S&layout=compact&theme=tokyonight"/>
 
-## 🔥 Visitor Count
-
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
+</p>
 
 ---
 
-<h3 align="center">⭐ Keep Learning. Keep Building. Keep Growing. ⭐
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Santhosh04-S&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Santhosh04-S&theme=tokyonight&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+## 👀 Visitor Count
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Santhosh04-S&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+## 📫 Connect With Me
+
+📧 **santhoshselvam0177@gmail.com**
+
+---
+
+<h3 align="center">
+⭐ Code • Learn • Build • Repeat ⭐
+</h3>
