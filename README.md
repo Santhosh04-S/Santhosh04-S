@@ -36,6 +36,9 @@
 
 ## <img src="https://img.shields.io/badge/-%20-8A2BE2?style=flat-square" height="22"/> About Me
 
+<table width="100%">
+<tr><td>
+
 > **Santhos S**, a **Full Stack Developer** currently pursuing my **B.E. in Computer Science and Engineering**. I enjoy building web applications end-to-end — from designing clean user interfaces to building reliable backend systems and databases.
 >
 > I'm in the early, hands-on stage of my development journey — actively building projects, strengthening my fundamentals, and working toward becoming a strong Full Stack Engineer capable of building real-world, AI-powered products.
@@ -46,9 +49,15 @@
 - 🎯 &nbsp;Long-term goal: build production-grade AI-powered web applications
 - 📫 &nbsp;Reach me at **[santhoshselvam0177@gmail.com](mailto:santhoshselvam0177@gmail.com)**
 
+</td></tr>
+</table>
+
 <br/>
 
 ## 🎯 Current Focus
+
+<table width="100%">
+<tr><td>
 
 ```text
 🔭 Focusing on:      Full Stack Development (MERN)
@@ -57,13 +66,19 @@
 🤝 Open to:          Collaboration on beginner/intermediate full-stack projects
 ```
 
+</td></tr>
+</table>
+
 <br/>
 
 ## 🚧 Currently Building
 
-### AI-Powered College ERP System — *Planning Phase*
+<table width="100%">
+<tr><td>
 
-An AI-integrated College ERP system covering chatbot support, attendance, exams, and fee management. Currently in the early planning and design stage — no modules are complete yet.
+### AI-Powered College ERP System — *In Progress*
+
+An AI-integrated College ERP system covering chatbot support, attendance, exams, and fee management.
 
 | Phase              | Status         |
 |---------------------|----------------|
@@ -71,38 +86,53 @@ An AI-integrated College ERP system covering chatbot support, attendance, exams,
 | UI Design           | 🟡 In Progress |
 | Frontend            | 🟡 In Progress |
 | Backend             | 🟡 In Progress |
-| Database            | 🟡 In Progress|
+| Database            | 🟡 In Progress |
 | AI Integration      | 🟡 In Progress |
 | Testing             | 🟡 In Progress |
 | Deployment          | 🟡 In Progress |
 
 > This project is being built openly and honestly — updates will reflect real progress, not placeholder milestones.
 
+</td></tr>
+</table>
+
 <br/>
 
 ## 🗂️ Coming Soon
 
+<table width="100%">
+<tr><td>
+
 These are planned projects, not yet started or completed:
 
-- 🛒 E-Commerce Website
-- 💬 Real-Time Chat Application
-- 🌐 Portfolio Website
-- 📊 Admin Dashboard
-- 💰 Expense Tracker
+- 🛒 &nbsp;E-Commerce Website
+- 💬 &nbsp;Real-Time Chat Application
+- 🌐 &nbsp;Portfolio Website
+- 📊 &nbsp;Admin Dashboard
+- 💰 &nbsp;Expense Tracker
+
+</td></tr>
+</table>
 
 <br/>
 
 ## 📚 Learning Roadmap
 
+<table width="100%">
+<tr><td>
+
 - [x] HTML
 - [x] CSS
 - [x] JavaScript
-- [x] React *(currently learning)*
-- [x] Node.js *(currently learning)*
+- [x] React
+- [x] Node.js
 - [x] Express.js
-- [x]  MongoDB
+- [x] MongoDB
 - [x] Git
 - [x] GitHub
+
+</td></tr>
+</table>
 
 <br/>
 
