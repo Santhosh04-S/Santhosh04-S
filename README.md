@@ -48,12 +48,12 @@ An AI-integrated College ERP system covering chatbot support, attendance, exams,
 |---------------------|----------------|
 | Research            | ✅ Completed    |
 | UI Design           | 🟡 In Progress |
-| Frontend            | ⚪ Not Started |
-| Backend             | ⚪ Not Started |
-| Database            | ⚪ Not Started |
-| AI Integration      | ⚪ Not Started |
-| Testing             | ⚪ Not Started |
-| Deployment          | ⚪ Not Started |
+| Frontend            | 🟡 In Progress  |
+| Backend             | 🟡 In Progress  |
+| Database            | 🟡 In Progress |
+| AI Integration      | 🟡 In Progress  |
+| Testing             | 🟡 In Progress |
+| Deployment          | 🟡 In Progress  |
 
 > This project is being built openly and honestly — updates will reflect real progress, not placeholder milestones.
 
