@@ -55,7 +55,7 @@
 🌱 Strengthening:    JavaScript, React, Backend APIs
 🧠 Exploring:        AI-powered web applications
 🤝 Open to:          Full Stack beginner/intermediate projects
-
+Overall Progress: ████████░░ 80%
 </td></tr>
 </table>
 
@@ -65,7 +65,20 @@
 
 <table width="100%">
 <tr><td>
+✅ HTML
+✅ CSS
+✅ JavaScript
+✅ React
+✅ Node.js
+✅ Express.js
+✅ MongoDB
+✅ Git & GitHub
 
+Next:
+🔜 TypeScript
+🔜 Docker
+🔜 System Design Basics
+🔜 Deployment
 ### AI-Powered College ERP System — *In Progress*
 
 An AI-integrated College ERP system covering chatbot support, attendance, exams, and fee management.
