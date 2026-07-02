@@ -1,61 +1,71 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:0D1117&height=220&section=header&text=Santhosh%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20MERN%20Stack&descAlignY=55&descSize=20" width="100%"/>
+<!-- Animated Wave Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:0D1117&height=200&section=header&text=Santhosh%20S&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Santhosh+S;Full+Stack+Developer;B.E+Computer+Science+Engineering;Building+Real-World+Web+Applications;Learning+%2B+Building+Every+Day+%F0%9F%9A%80" />
+<!-- Animated Typing Banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Santhosh+S;Full+Stack+Developer;B.E+Computer+Science+Engineering;Building+Real-World+Web+Applications;Learning+%2B+Building+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
+<!-- Nav Buttons row (like the reference image) -->
 <a href="mailto:santhoshselvam0177@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8A2BE2" />
+  <img src="https://img.shields.io/badge/📧_Email-1a1b27?style=for-the-badge&labelColor=1a1b27" />
 </a>
 <a href="https://github.com/Santhosh04-S">
-  <img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white&labelColor=8A2BE2" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-1a1b27?style=for-the-badge&logo=vercel&logoColor=white&labelColor=8A2BE2" />
+  <img src="https://img.shields.io/badge/🐙_GitHub-1a1b27?style=for-the-badge&labelColor=1a1b27" />
 </a>
 
 <br/><br/>
 
+<!-- Quote box styled like the reference "66 ... 99" card -->
 <table>
-<tr>
-<td align="center">
+<tr><td>
 
-### 💬 Code. Learn. Build. Improve. Repeat. 🚀
+💬 &nbsp; *Building real-world web applications, one honest commit at a time.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Learning today, shipping tomorrow.* 🚀
 
-*Building real-world web applications, one honest commit at a time.*
-
-</td>
-</tr>
+</td></tr>
 </table>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:8A2BE2&height=3&section=header" width="100%"/>
 
-## 🧑‍💻 About Me
+<br/>
 
-> I'm **Santhosh S**, a **Full Stack Developer** currently pursuing **B.E. Computer Science and Engineering**.  
-> I’m focused on building real-world web applications using the **MERN Stack** and improving every day through consistent project-based learning.
+## <img src="https://img.shields.io/badge/-%20-8A2BE2?style=flat-square" height="22"/> About Me
 
-- 🎓 B.E. Computer Science and Engineering  
-- 💻 Full Stack Web Development  
-- 🌱 Learning React, Node.js, Express.js, MongoDB  
-- 🧠 Exploring AI integration in web applications  
-- 🎯 Goal: Build production-grade AI-powered web apps  
-- 📫 Email: **santhoshselvam0177@gmail.com**
+<table width="100%">
+<tr><td>
 
----
+> * **, a **Full Stack Developer** currently pursuing my **B.E. in Computer Science and Engineering**. I enjoy building web applications end-to-end — from designing clean user interfaces to building reliable backend systems and databases.
+>
+> I'm in the early, hands-on stage of my development journey — actively building projects, strengthening my fundamentals, and working toward becoming a strong Full Stack Engineer capable of building real-world, AI-powered products.
+
+- 🎓 &nbsp;B.E. Computer Science and Engineering
+- 💻 &nbsp;Full Stack Web Development (MERN Stack)
+- 🌱 &nbsp;Currently deepening my skills in React, Node.js, and system design basics
+- 🎯 &nbsp;Long-term goal: build production-grade AI-powered web applications
+- 📫 &nbsp;Reach me at **[santhoshselvam0177@gmail.com](mailto:santhoshselvam0177@gmail.com)**
+
+</td></tr>
+</table>
+
+<br/>
 
 ## 🎯 Current Focus
 
+<table width="100%">
+<tr><td>
+
 ```text
-🔭 Focusing on:      MERN Stack Development
-🌱 Strengthening:    JavaScript, React, Backend APIs
-🧠 Exploring:        AI-powered web applications
-🤝 Open to:          Full Stack beginner/intermediate projects
-Overall Progress: ████████░░ 80%
+🔭 Focusing on:      Full Stack Development (MERN)
+🌱 Strengthening:    JavaScript fundamentals, React, Backend APIs
+🧠 Exploring:        AI integration in web applications
+🤝 Open to:          Collaboration on beginner/intermediate full-stack projects
+```
+
 </td></tr>
 </table>
 
@@ -65,20 +75,7 @@ Overall Progress: ████████░░ 80%
 
 <table width="100%">
 <tr><td>
-✅ HTML
-✅ CSS
-✅ JavaScript
-✅ React
-✅ Node.js
-✅ Express.js
-✅ MongoDB
-✅ Git & GitHub
 
-Next:
-🔜 TypeScript
-🔜 Docker
-🔜 System Design Basics
-🔜 Deployment
 ### AI-Powered College ERP System — *In Progress*
 
 An AI-integrated College ERP system covering chatbot support, attendance, exams, and fee management.
@@ -234,4 +231,4 @@ These are planned projects, not yet started or completed:
 
 </div>  
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:8A2BE2&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:8A2BE2&height=120&section=footer" width="100%"/>  
