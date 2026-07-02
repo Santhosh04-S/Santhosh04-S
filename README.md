@@ -2,6 +2,7 @@
 
 <!-- Animated Wave Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:0D1117&height=200&section=header&text=Santhosh%20S&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<imag src="<img width="300" height="429" alt="preview" src="https://github.com/user-attachments/assets/0bb1e6d0-d691-4c5e-a18f-95b6d01cb5f2" />
 
 <!-- Animated Typing Banner -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Santhosh+S;Full+Stack+Developer;B.E+Computer+Science+Engineering;Building+Real-World+Web+Applications;Learning+%2B+Building+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
