@@ -10,29 +10,22 @@
 <br/>
 
 <!-- Nav Buttons row (like the reference image) -->
+<!-- Nav Buttons -->
+
 <a href="mailto:santhoshselvam0177@gmail.com">
-  <a href="mailto:santhoshselvam0177@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Email-1a1b27?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://github.com/Santhosh04-S">
-<a href="mailto:santhoshselvam0177@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Email-1a1b27?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://github.com/Santhosh04-S">
-  <img src="https://img.shields.io/badge/🐙_GitHub-1a1b27?style=for-the-badge&labelColor=1a1b27" />
+<a href="#">
+  <img src="https://img.shields.io/badge/Meet_My_AI-8A2BE2?style=for-the-badge&logo=probot&logoColor=white" />
 </a>
 
-<a href="YOUR_AI_PORTFOLIO_LIVE_LINK">
-  <img src="https://img.shields.io/badge/🎙️_Meet_My_AI-8A2BE2?style=for-the-badge" />
-</a>    <img src="https://img.shields.io/badge/🐙_GitHub-1a1b27?style=for-the-badge&labelColor=1a1b27" />
-</a>
-  <img src="https://img.shields.io/badge/📧_Email-1a1b27?style=for-the-badge&labelColor=1a1b27" />
-</a>
-<a href="https://github.com/Santhosh04-S">
- 
-</a>
+<br/><br/>
+
 
 <br/><br/>
 
