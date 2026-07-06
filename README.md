@@ -11,7 +11,7 @@
 
 <!-- Nav Buttons row (like the reference image) -->
 <a href="mailto:santhoshselvam0177@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=white" /> 
 </a>
 
 <a href="https://github.com/Santhosh04-S">
