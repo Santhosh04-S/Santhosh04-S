@@ -20,11 +20,11 @@
   <img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="#">
+ <a href="https://YOUR-LIVE-AI-PORTFOLIO-LINK">
   <img src="https://img.shields.io/badge/Meet_My_AI-8A2BE2?style=for-the-badge&logo=probot&logoColor=white" />
 </a>
 
-<br/><br/>
+<br/>
 
 
 <br/><br/>
