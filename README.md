@@ -17,11 +17,9 @@
 <a href="https://github.com/Santhosh04-S">
   <img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<a href="#">
+<a href="https://santhosh04-s.github.io/santhosh-ai-portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/Meet_My_AI-8A2BE2?style=for-the-badge&logo=probot&logoColor=white" />
 </a>
-
 
 <br/>
 
