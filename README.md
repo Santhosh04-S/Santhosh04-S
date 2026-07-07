@@ -230,7 +230,7 @@ These are planned projects, not yet started or completed:
 
 <div align="center">
 
-### 💬 "The expert in anything was once a beginner."
+### 💬 "The expert in anything was once a beginner." 
 
 ⭐️ Thanks for visiting my profile — I'm just getting started, and I'm building in public.
 
