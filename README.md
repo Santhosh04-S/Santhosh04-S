@@ -237,5 +237,3 @@ These are planned projects, not yet started or completed:
 </div>  
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:8A2BE2&height=120&section=footer" width="100%"/>  
-
-
