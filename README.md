@@ -222,7 +222,6 @@ These are planned projects, not yet started or completed:
 *Thanks for visiting! 😊*
 
 </div>
-<imag src="<img width="300" height="429" alt="preview" src="https://github.com/user-attachments/assets/0bb1e6d0-d691-4c5e-a18f-95b6d01cb5f2" />
 
 
 <div align="center">
