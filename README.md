@@ -1,6 +1,6 @@
-<div align="center">
-
-<!-- Animated Wave Header Banner -->
+  <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Santhosh04-S&show_icons=true&theme=radical&hide_border=true" />
+</div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:0D1117&height=200&section=header&text=Santhosh%20S&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 <imag src="<img width="300" height="429" alt="preview" src="https://github.com/user-attachments/assets/0bb1e6d0-d691-4c5e-a18f-95b6d01cb5f2" />
 
