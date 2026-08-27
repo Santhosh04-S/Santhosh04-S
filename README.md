@@ -181,7 +181,6 @@ These are planned projects, not yet started or completed:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Santhosh04-S&theme=radical&no-frame=true&margin-w=10&row=1" />
 
 </div>
 
@@ -190,8 +189,6 @@ These are planned projects, not yet started or completed:
 ## 📈 Contribution Graph
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Santhosh04-S&theme=react-dark&hide_border=true&bg_color=0D1117&color=8A2BE2&line=8A2BE2&point=ffffff" />
 
 </div>
 
