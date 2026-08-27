@@ -1,29 +1,20 @@
-  <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Santhosh04-S&show_icons=true&theme=radical&hide_border=true" />
-</div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:0D1117&height=200&section=header&text=Santhosh%20S&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
-<imag src="<img width="300" height="429" alt="preview" src="https://github.com/user-attachments/assets/0bb1e6d0-d691-4c5e-a18f-95b6d01cb5f2" />
+<div align="center">
 
-<!-- Animated Typing Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Santhosh+S;Full+Stack+Developer;B.E+Computer+Science+Engineering;Building+Real-World+Web+Applications;Learning+%2B+Building+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:8A2BE2,100:FF006E&height=250&section=header&text=Hi%20There!%20I'm%20Santhosh%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
+
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Santhosh+S;Full+Stack+Developer+%F0%9F%92%BB;B.E+Computer+Science+Engineering+%F0%9F%8E%93;Building+Real-World+Web+Applications+%F0%9F%9A%80;Learning+%2B+Building+Every+Day+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/>
 
-<!-- Nav Buttons row (like the reference image) -->
-<a href="mailto:santhoshselvam0177@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=white" /> 
-</a>
+<!-- Social badges -->
+<a href="mailto:santhoshselvam0177@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Santhosh04-S"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://santhosh04-s.github.io/santhosh-ai-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Meet_My_AI-8A2BE2?style=for-the-badge&logo=probot&logoColor=white"/></a>
 
-<a href="https://github.com/Santhosh04-S">
-  <img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://santhosh04-s.github.io/santhosh-ai-portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Meet_My_AI-8A2BE2?style=for-the-badge&logo=probot&logoColor=white" />
-</a>
+<br/><br/>
 
-<br/>
-
-<!-- Quote box styled like the reference "66 ... 99" card -->
+<!-- Quote box -->
 <table>
 <tr><td>
 
@@ -35,16 +26,16 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:8A2BE2&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:FF006E&height=3&section=header" width="100%"/>
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-%20-8A2BE2?style=flat-square" height="22"/> About Me
+## 🧑‍🚀 About Me
 
 <table width="100%">
 <tr><td>
 
-> * **, a **Full Stack Developer** currently pursuing my **B.E. in Computer Science and Engineering**. I enjoy building web applications end-to-end — from designing clean user interfaces to building reliable backend systems and databases.
+> Santhosh S, a **Full Stack Developer** currently pursuing my **B.E. in Computer Science and Engineering**. I enjoy building web applications end-to-end — from designing clean user interfaces to building reliable backend systems and databases.
 >
 > I'm in the early, hands-on stage of my development journey — actively building projects, strengthening my fundamentals, and working toward becoming a strong Full Stack Engineer capable of building real-world, AI-powered products.
 
@@ -64,7 +55,7 @@
 <table width="100%">
 <tr><td>
 
-```text
+```yaml
 🔭 Focusing on:      Full Stack Development (MERN)
 🌱 Strengthening:    JavaScript fundamentals, React, Backend APIs
 🧠 Exploring:        AI integration in web applications
@@ -81,20 +72,20 @@
 <table width="100%">
 <tr><td>
 
-### AI-Powered College ERP System — *In Progress*
+### 🏫 AI-Powered College ERP System — *In Progress*
 
 An AI-integrated College ERP system covering chatbot support, attendance, exams, and fee management.
 
-| Phase              | Status         |
-|---------------------|----------------|
-| Research            | ✅ Completed    |
-| UI Design           | 🟡 In Progress |
-| Frontend            | 🟡 In Progress |
-| Backend             | 🟡 In Progress |
-| Database            | 🟡 In Progress |
-| AI Integration      | 🟡 In Progress |
-| Testing             | 🟡 In Progress |
-| Deployment          | 🟡 In Progress |
+| Phase           | Status         |
+|------------------|----------------|
+| Research         | ✅ Completed    |
+| UI Design        | 🟡 In Progress |
+| Frontend         | 🟡 In Progress |
+| Backend          | 🟡 In Progress |
+| Database         | 🟡 In Progress |
+| AI Integration   | 🟡 In Progress |
+| Testing          | 🟡 In Progress |
+| Deployment       | 🟡 In Progress |
 
 > This project is being built openly and honestly — updates will reflect real progress, not placeholder milestones.
 
@@ -108,7 +99,7 @@ An AI-integrated College ERP system covering chatbot support, attendance, exams,
 <table width="100%">
 <tr><td>
 
-These are planned projects, not yet started or completed:
+Planned projects, not yet started or completed:
 
 - 🛒 &nbsp;E-Commerce Website
 - 💬 &nbsp;Real-Time Chat Application
@@ -128,10 +119,10 @@ These are planned projects, not yet started or completed:
 
 - ☑️ HTML
 - ☑️ CSS
-- ☑️JavaScript
+- ☑️ JavaScript
 - ☑️ React
 - ☑️ Node.js
-  ☑️Express.js
+- ☑️ Express.js
 - ☑️ MongoDB
 - ☑️ Git
 - ☑️ GitHub
@@ -143,11 +134,11 @@ These are planned projects, not yet started or completed:
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,postman&theme=dark" />
 
 </div>
 
@@ -155,23 +146,15 @@ These are planned projects, not yet started or completed:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=Santhosh04-S&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9" />
-</td>
-<td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Santhosh04-S&theme=radical&hide_border=true&background=0D1117&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh04-S&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=c9d1d9" />
-</td>
-</tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=Santhosh04-S&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Santhosh04-S&theme=radical&hide_border=true&background=0D1117&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh04-S&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Santhosh04-S&theme=redical&hide_border=true&bg_color=0D1117&color=8A2BE2&line=8A2BE2&point=FF006E" width="48%"/>
 
 </div>
 
@@ -181,14 +164,17 @@ These are planned projects, not yet started or completed:
 
 <div align="center">
 
+<img src="https://github-profile-trophy.vercel.app/?username=Santhosh04-S&theme=radical&no-frame=true&row=1&column=7"/>
 
 </div>
 
 <br/>
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/Santhosh04-S/Santhosh04-S/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
@@ -200,12 +186,9 @@ These are planned projects, not yet started or completed:
 
 <div align="center">
 
-<a href="mailto:santhoshselvam0177@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/Santhosh04-S">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="mailto:santhoshselvam0177@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Santhosh04-S"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://santhosh04-s.github.io/santhosh-ai-portfolio/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=probot&logoColor=white"/></a>
 
 </div>
 
@@ -215,7 +198,7 @@ These are planned projects, not yet started or completed:
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Santhosh04-S&color=8A2BE2&style=flat-square&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=Santhosh04-S&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS" />
 
 <br/><br/>
 
@@ -223,13 +206,12 @@ These are planned projects, not yet started or completed:
 
 </div>
 
-
 <div align="center">
 
-### 💬 "The expert in anything was once a beginner." 
+### 💜 "The expert in anything was once a beginner." 💜
 
 ⭐️ Thanks for visiting my profile — I'm just getting started, and I'm building in public.
 
-</div>  
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:8A2BE2&height=120&section=footer" width="100%"/>  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:0D1117&height=150&section=footer" width="100%"/>
