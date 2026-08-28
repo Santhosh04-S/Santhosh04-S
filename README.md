@@ -1,16 +1,17 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:8A2BE2,100:FF006E&height=250&section=header&text=Hi%20There!%20I'm%20Santhosh%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:0F2027,100:00C9FF&height=250&section=header&text=Hi%20There!%20I'm%20Santhosh%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Santhosh+S;Full+Stack+Developer+%F0%9F%92%BB;B.E+Computer+Science+Engineering+%F0%9F%8E%93;Building+Real-World+Web+Applications+%F0%9F%9A%80;Learning+%2B+Building+Every+Day+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=2C5364&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Santhosh+S;Full+Stack+Developer+%F0%9F%92%BB;B.E+Computer+Science+Engineering+%F0%9F%8E%93;Building+Real-World+Web+Applications+%F0%9F%9A%80;Learning+%2B+Building+Every+Day+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/>
 
 <!-- Social badges -->
 <a href="mailto:santhoshselvam0177@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Santhosh04-S"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://santhosh04-s.github.io/santhosh-ai-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Meet_My_AI-8A2BE2?style=for-the-badge&logo=probot&logoColor=white"/></a>
+<a href="https://santhosh04-s.github.io/santhosh-ai-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Meet_My_AI-0F2027?style=for-the-badge&logo=probot&logoColor=white"/></a>
 
 <br/><br/>
 
@@ -26,7 +27,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:FF006E&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:00C9FF&height=3&section=header" width="100%"/>
 
 <br/>
 
@@ -134,6 +135,37 @@ Planned projects, not yet started or completed:
 
 ---
 
+## 💻 Code, Coffee, Repeat
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="60"/>&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
+</div>
+
+<br/>
+
+## 🧩 LeetCode Stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Santhosh04-S?theme=dark&font=Fira%20Code&ext=heatmap" width="90%"/>
+
+</div>
+
+<br/>
+
+## ⏱️ Weekly Coding Activity
+
+<!--START_SECTION:waka-->
+<!-- This section auto-updates every day via the WakaTime GitHub Action -->
+<!--END_SECTION:waka-->
+
+<br/>
+
+---
+
 ## 🛠️ Tech Arsenal
 
 <div align="center">
@@ -150,11 +182,11 @@ Planned projects, not yet started or completed:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Santhosh04-S&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Santhosh04-S&theme=radical&hide_border=true&background=0D1117&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Santhosh04-S&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Santhosh04-S&theme=radical&hide_border=true&background=0D1117&stroke=00C9FF&ring=00C9FF&fire=00C9FF&currStreakLabel=00C9FF" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh04-S&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Santhosh04-S&theme=redical&hide_border=true&bg_color=0D1117&color=8A2BE2&line=8A2BE2&point=FF006E" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh04-S&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Santhosh04-S&theme=redical&hide_border=true&bg_color=0D1117&color=00C9FF&line=00C9FF&point=2C5364" width="48%"/>
 
 </div>
 
@@ -182,13 +214,25 @@ Planned projects, not yet started or completed:
 
 ---
 
+## 🎯 Daily Motivation
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="90%"/>
+
+</div>
+
+<br/>
+
+---
+
 ## 📫 Contact Me
 
 <div align="center">
 
 <a href="mailto:santhoshselvam0177@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Santhosh04-S"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://santhosh04-s.github.io/santhosh-ai-portfolio/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=probot&logoColor=white"/></a>
+<a href="https://santhosh04-s.github.io/santhosh-ai-portfolio/"><img src="https://img.shields.io/badge/Portfolio-0F2027?style=for-the-badge&logo=probot&logoColor=white"/></a>
 
 </div>
 
@@ -198,7 +242,7 @@ Planned projects, not yet started or completed:
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Santhosh04-S&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Santhosh04-S&color=2C5364&style=for-the-badge&label=PROFILE+VIEWS" />
 
 <br/><br/>
 
@@ -214,4 +258,4 @@ Planned projects, not yet started or completed:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:0D1117&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:0D1117&height=150&section=footer" width="100%"/>
