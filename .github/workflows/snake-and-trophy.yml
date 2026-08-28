@@ -42,12 +42,11 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: Santhosh04-S
-          output_path: trophy.svg
+          file: trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           theme: radical
           no-frame: true
-          row: 1
-          column: 7
+          max-cols: "7"
 
       - name: Commit trophy.svg to repo
         run: |
