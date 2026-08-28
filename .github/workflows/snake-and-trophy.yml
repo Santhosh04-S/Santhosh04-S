@@ -1,0 +1,58 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs once a day
+  workflow_dispatch:       # allows manual run from Actions tab
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-snake:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate the snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Santhosh04-S
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push the generated file to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  generate-trophy:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate trophy SVG
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: Santhosh04-S
+          output_path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: radical
+          no-frame: true
+          row: 1
+          column: 7
+
+      - name: Commit trophy.svg to repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add trophy.svg
+          git diff --staged --quiet || git commit -m "docs: update trophy.svg"
+          git push
