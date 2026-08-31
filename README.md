@@ -139,7 +139,8 @@ Planned projects, not yet started or completed:
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="60"/>&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<img width="1536" height="1024" alt="hSFyAVOuXMEn3tybadmBezqYozn_RSqUvTnEaQmLV4lFGnUPtoykQw0Bm7wlKBttYHHJrxgodcpyQM_NUCe6Od-QmqH2KS-LIgOJYMuh4tBOu4iIRgrj_h7ar1CKCmgf6Vzab1bkYiJxCZs7C62YkULop3lOYNOJbiVLZABs82untwadKT-pfuWJrGNQTvs9" src="https://github.com/user-attachments/assets/2553a61e-d7b4-49a8-b5d6-abfca9ad8822" />
+
 
 </div>
 
