@@ -156,8 +156,16 @@ Planned projects, not yet started or completed:
 
 <br/>
 
+
 ## ⏱️ Weekly Coding Activity
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=wide&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=c9d1d9" width="90%"/>
+
+</div>
+
+<br/>
 <!--START_SECTION:waka-->
 <!-- This section auto-updates every day via the WakaTime GitHub Action -->
 <!--END_SECTION:waka-->
