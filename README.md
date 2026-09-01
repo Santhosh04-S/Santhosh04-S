@@ -61,6 +61,103 @@
 🧠 Exploring:        AI integration in web applications
 🤝 Open to:          Collaboration on beginner/intermediate full-stack projects
 ```
+<svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F2027"/>
+      <stop offset="100%" stop-color="#1a3a45"/>
+    </linearGradient>
+    <linearGradient id="c1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00C9FF"/><stop offset="100%" stop-color="#0072ff"/>
+    </linearGradient>
+    <linearGradient id="c2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#92FE9D"/><stop offset="100%" stop-color="#00C9A7"/>
+    </linearGradient>
+    <linearGradient id="c3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF7EB3"/><stop offset="100%" stop-color="#FF758C"/>
+    </linearGradient>
+    <linearGradient id="c4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFD86F"/><stop offset="100%" stop-color="#FC913A"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .mono{font-family:'Fira Code','Consolas',monospace;}
+      .title{fill:#e6edf3; font-weight:600;}
+      .label{fill:#9fb4bd;}
+      @keyframes floaty{0%,100%{transform:translateY(0);}50%{transform:translateY(-6px);}}
+      @keyframes pulseGlow{0%,100%{opacity:.65;}50%{opacity:1;}}
+      @keyframes fadeIn{from{opacity:0; transform:translateY(10px);} to{opacity:1; transform:translateY(0);}}
+      @keyframes dash{to{stroke-dashoffset:0;}}
+      .card{animation:floaty 4.5s ease-in-out infinite;}
+      .card2{animation:floaty 4.5s ease-in-out infinite; animation-delay:.3s;}
+      .card3{animation:floaty 4.5s ease-in-out infinite; animation-delay:.6s;}
+      .card4{animation:floaty 4.5s ease-in-out infinite; animation-delay:.9s;}
+      .dot{animation:pulseGlow 1.8s ease-in-out infinite;}
+      .in1{animation:fadeIn .5s ease-out .1s both;}
+      .in2{animation:fadeIn .5s ease-out .3s both;}
+      .in3{animation:fadeIn .5s ease-out .5s both;}
+      .in4{animation:fadeIn .5s ease-out .7s both;}
+      .trace{stroke-dasharray:340; stroke-dashoffset:340; animation:dash 2.4s ease-out forwards;}
+    </style>
+  </defs>
+
+  <rect width="900" height="280" rx="16" fill="url(#bgGrad)"/>
+  <rect x="1" y="1" width="898" height="278" rx="16" fill="none" stroke="#00C9FF" stroke-opacity="0.25" stroke-width="1.5"/>
+
+  <text x="30" y="42" class="mono title" font-size="20">🎯 Current Focus</text>
+  <line x1="30" y1="54" x2="870" y2="54" stroke="#00C9FF" stroke-opacity="0.2" class="trace"/>
+
+  <!-- Card 1 -->
+  <g class="card in1">
+    <rect x="30" y="78" width="200" height="160" rx="14" fill="#08141a" stroke="url(#c1)" stroke-width="1.6"/>
+    <rect x="30" y="78" width="200" height="160" rx="14" fill="url(#c1)" opacity="0.06"/>
+    <circle cx="55" cy="103" r="5" fill="#00C9FF" class="dot" filter="url(#glow)"/>
+    <text x="70" y="108" class="mono label" font-size="12">FOCUSING ON</text>
+    <text x="52" y="150" text-anchor="middle" font-size="26">🔭</text>
+    <text x="130" y="182" text-anchor="middle" class="mono title" font-size="14">Full Stack</text>
+    <text x="130" y="202" text-anchor="middle" class="mono title" font-size="14">Development</text>
+    <text x="130" y="222" text-anchor="middle" class="mono label" font-size="12">(MERN)</text>
+  </g>
+
+  <!-- Card 2 -->
+  <g class="card2 in2">
+    <rect x="245" y="78" width="200" height="160" rx="14" fill="#08141a" stroke="url(#c2)" stroke-width="1.6"/>
+    <rect x="245" y="78" width="200" height="160" rx="14" fill="url(#c2)" opacity="0.06"/>
+    <circle cx="270" cy="103" r="5" fill="#92FE9D" class="dot" filter="url(#glow)"/>
+    <text x="285" y="108" class="mono label" font-size="12">STRENGTHENING</text>
+    <text x="267" y="150" text-anchor="middle" font-size="26">🏋️</text>
+    <text x="345" y="176" text-anchor="middle" class="mono title" font-size="13">JavaScript</text>
+    <text x="345" y="196" text-anchor="middle" class="mono title" font-size="13">React ·</text>
+    <text x="345" y="216" text-anchor="middle" class="mono title" font-size="13">Backend APIs</text>
+  </g>
+
+  <!-- Card 3 -->
+  <g class="card3 in3">
+    <rect x="460" y="78" width="200" height="160" rx="14" fill="#08141a" stroke="url(#c3)" stroke-width="1.6"/>
+    <rect x="460" y="78" width="200" height="160" rx="14" fill="url(#c3)" opacity="0.06"/>
+    <circle cx="485" cy="103" r="5" fill="#FF7EB3" class="dot" filter="url(#glow)"/>
+    <text x="500" y="108" class="mono label" font-size="12">EXPLORING</text>
+    <text x="482" y="150" text-anchor="middle" font-size="26">🧠</text>
+    <text x="560" y="182" text-anchor="middle" class="mono title" font-size="14">AI Integration</text>
+    <text x="560" y="202" text-anchor="middle" class="mono title" font-size="14">in Web</text>
+    <text x="560" y="222" text-anchor="middle" class="mono title" font-size="14">Applications</text>
+  </g>
+
+  <!-- Card 4 -->
+  <g class="card4 in4">
+    <rect x="675" y="78" width="195" height="160" rx="14" fill="#08141a" stroke="url(#c4)" stroke-width="1.6"/>
+    <rect x="675" y="78" width="195" height="160" rx="14" fill="url(#c4)" opacity="0.06"/>
+    <circle cx="700" cy="103" r="5" fill="#FFD86F" class="dot" filter="url(#glow)"/>
+    <text x="715" y="108" class="mono label" font-size="12">OPEN TO</text>
+    <text x="697" y="150" text-anchor="middle" font-size="26">🤝</text>
+    <text x="772" y="176" text-anchor="middle" class="mono title" font-size="13">Collaboration on</text>
+    <text x="772" y="196" text-anchor="middle" class="mono title" font-size="13">full-stack</text>
+    <text x="772" y="216" text-anchor="middle" class="mono title" font-size="13">projects</text>
+  </g>
+</svg>
 
 </td></tr>
 </table>
