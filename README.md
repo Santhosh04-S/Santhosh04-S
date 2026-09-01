@@ -199,6 +199,18 @@ Planned projects, not yet started or completed:
 </div>
 
 <br/>
+<br>
+
+## 🧊 3D Contribution Graph
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D contribution graph">
+
+</div>
+
+<br>
+
 
 ## 🏆 GitHub Trophies
 
@@ -214,11 +226,14 @@ Planned projects, not yet started or completed:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Santhosh04-S/Santhosh04-S/output/github-contribution-grid-snake.svg"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gowtham-R03/Gowtham-R03/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gowtham-R03/Gowtham-R03/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Gowtham-R03/Gowtham-R03/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
-<br/>
 
 ---
 
