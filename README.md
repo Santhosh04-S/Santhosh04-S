@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:0F2027,100:00C9FF&height=250&section=header&text=Hi%20There!%20I'm%20Santhosh%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
@@ -27,6 +28,14 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:00C9FF&height=3&section=header" width="100%"/>
+
+<br/>
+
+## 🖥️ whoami
+
+<div align="center">
+  <img src="./assets/whoami-terminal.svg" alt="whoami" width="100%">
+</div>
 
 <br/>
 
@@ -141,7 +150,6 @@ Planned projects, not yet started or completed:
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="60"/>&nbsp;&nbsp;
 <img width="1536" height="1024" alt="hSFyAVOuXMEn3tybadmBezqYozn_RSqUvTnEaQmLV4lFGnUPtoykQw0Bm7wlKBttYHHJrxgodcpyQM_NUCe6Od-QmqH2KS-LIgOJYMuh4tBOu4iIRgrj_h7ar1CKCmgf6Vzab1bkYiJxCZs7C62YkULop3lOYNOJbiVLZABs82untwadKT-pfuWJrGNQTvs9" src="https://github.com/user-attachments/assets/2553a61e-d7b4-49a8-b5d6-abfca9ad8822" />
 
-
 </div>
 
 <br/>
@@ -155,7 +163,6 @@ Planned projects, not yet started or completed:
 </div>
 
 <br/>
-
 
 ## ⏱️ Weekly Coding Activity
 
@@ -199,18 +206,6 @@ Planned projects, not yet started or completed:
 </div>
 
 <br/>
-<br>
-
-## 🧊 3D Contribution Graph
-
-<div align="center">
-
-<img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D contribution graph">
-
-</div>
-
-<br>
-
 
 ## 🏆 GitHub Trophies
 
@@ -222,18 +217,29 @@ Planned projects, not yet started or completed:
 
 <br/>
 
+## 🧊 3D Contribution Graph
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D contribution graph">
+
+</div>
+
+<br/>
+
 ## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gowtham-R03/Gowtham-R03/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gowtham-R03/Gowtham-R03/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Gowtham-R03/Gowtham-R03/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Santhosh04-S/Santhosh04-S/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Santhosh04-S/Santhosh04-S/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Santhosh04-S/Santhosh04-S/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
 
+<br/>
 
 ---
 
