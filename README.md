@@ -29,6 +29,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:00C9FF&height=3&section=header" width="100%"/>
 
+<div align="center">
+
+<img src="./assets/ai-banner.svg" alt="AI neural network banner" width="100%"/>
+
+</div>
+
 <br/>
 
 ## 🧑‍🚀 About Me
@@ -161,6 +167,53 @@ Planned projects, not yet started or completed:
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,postman&theme=dark" />
+
+<br/><br/>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![OpenAI](https://img.shields.io/badge/AI%20APIs-Exploring-00C9FF?style=flat-square&logo=openai&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+## 🤖 My AI + Full Stack Journey
+
+<div align="center">
+
+```mermaid
+flowchart LR
+    A([📘 Learn Fundamentals]) --> B([🧱 Build MERN Projects])
+    B --> C([🤖 Integrate AI])
+    C --> D([🚀 Ship Real Products])
+    style A fill:#0F2027,stroke:#00C9FF,color:#ffffff
+    style B fill:#203A43,stroke:#00C9FF,color:#ffffff
+    style C fill:#2C5364,stroke:#92FE9D,color:#ffffff
+    style D fill:#0F2027,stroke:#92FE9D,color:#ffffff
+```
+
+</div>
+
+<br/>
+
+## ⚡ Quick Facts
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Stack-MERN-00C9FF?style=for-the-badge&labelColor=0F2027"/>
+<img src="https://img.shields.io/badge/Mode-Learning%20%2B%20Building-92FE9D?style=for-the-badge&labelColor=0F2027"/>
+<img src="https://img.shields.io/badge/Goal-AI%20Powered%20Web%20Apps-2C5364?style=for-the-badge&labelColor=0F2027"/>
+<img src="https://img.shields.io/badge/Based%20in-Tamil%20Nadu%2C%20India-FF9933?style=for-the-badge&labelColor=0F2027"/>
 
 </div>
 
