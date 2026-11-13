@@ -56,12 +56,10 @@
 <table width="100%">
 <tr><td>
 
-```yaml
-🔭 Focusing on:      Full Stack Development (MERN)
-🌱 Strengthening:    JavaScript fundamentals, React, Backend APIs
-🧠 Exploring:        AI integration in web applications
-🤝 Open to:          Collaboration on beginner/intermediate full-stack projects
-```
+- 🔭 &nbsp;**Focusing on:** Full Stack Development (MERN)
+- 🌱 &nbsp;**Strengthening:** JavaScript fundamentals, React, Backend APIs
+- 🧠 &nbsp;**Exploring:** AI integration in web applications
+- 🤝 &nbsp;**Open to:** Collaboration on beginner/intermediate full-stack projects
 
 </td></tr>
 </table>
